@@ -10,8 +10,9 @@ As this is a simple reflex agent, it only reacts when there is input from the cu
 Reads pollution data from a file called: sensor_data.csv
 
 ## Example format
-location,PM2.5,PM10,NO2,SO2,CO,O3 
-Gandi Maisamma,40,55,30,20,1.2,35
+location      ,PM2.5,PM10,NO2,SO2,CO,O3 
+Gandi Maisamma,40   ,55  ,30 ,20 ,1.2,35
+
 Each row represents pollution measurements for a specific location at a given time
 
 # Output
