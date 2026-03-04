@@ -42,7 +42,7 @@ for idx, row in df.iterrows():
             category = "Hazardous"
     else:
         final_aqi = None
-        category = "Insufficient Data"
+        category = "Not enough data"
     result_row = {
         "location": row["location"],
         "AQI": round(final_aqi, 1)
@@ -53,4 +53,5 @@ for idx, row in df.iterrows():
 
     output.append(result_row)
 results = pd.DataFrame(output)
+
 print(results)
