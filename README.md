@@ -6,10 +6,10 @@ The agent reads the pollutant concentration from the sensor_data CSV file, calcu
 As this is a simple reflex agent, it only reacts when there is input from the current sensor, without storing the past information
 
 
-#Input
+# Input
 Reads pollution data from a file called: sensor_data.csv
 
-#Example format
+## Example format
 location,PM2.5,PM10,NO2,SO2,CO,O3 
 Gandi Maisamma,40,55,30,20,1.2,35
 Each row represents pollution measurements for a specific location at a given time
