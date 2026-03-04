@@ -30,3 +30,10 @@ Location    AQI value       AQI Category
   
 Needs Python 3 and the pandas library
 
+## Authors
+Done as a team
+1. Abhinav Santosh - SE24UCSE022
+2. Ega Kesari Charan - SE24UCSE162
+4. Muhammad Muzaffar Shaik - SE24UCSE252
+5. Sai Jeevan - SE24UCSE236
+
