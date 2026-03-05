@@ -35,5 +35,5 @@ Done as a team
 1. Abhinav Santosh - SE24UCSE022
 2. Ega Kesari Charan - SE24UCSE162
 4. Muhammad Muzaffar Shaik - SE24UCSE252
-5. Sai Jeevan - SE24UCSE236
+5. M Sai Jeevan - SE24UCSE236
 
